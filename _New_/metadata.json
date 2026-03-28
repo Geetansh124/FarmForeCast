@@ -1,0 +1,9 @@
+{
+  "name": "arborzen ai",
+  "description": "A multimodal environmental interpreter that gives nature a voice. Upload tree photos, audio, or use your location to generate a tree's perspective on local ecological health.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
